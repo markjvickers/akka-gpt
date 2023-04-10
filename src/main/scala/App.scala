@@ -2,6 +2,6 @@ object App {
   def greeting(msg: String): Unit = println(msg)
 
   def main(args: Array[String]): Unit = {
-    greeting("Hello, Akka-GPT")
+    greeting("Hello Mark")
   }
 }
